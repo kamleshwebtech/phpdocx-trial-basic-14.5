@@ -1,0 +1,15 @@
+{
+    "name": "kamleshwebtech/phpdocx-trial-basic-14.5",
+    "type": "library",
+    "description": "phpdocx-trial-basic-14.5: used to add, update and delete contents (text, image) in a Microsoft docx file",
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "autoload": {
+        "classmap": [
+            "classes",
+            "config",
+            "classes/CreateDocx.php",
+        ]
+    },
+}
